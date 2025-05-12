@@ -33,7 +33,7 @@ def print_instructions() -> None:
     INSTRUCTIONS:
     
     1. The computer will randomly select a word for you to guess.
-    2. Each round, you can guess one letter.
+    2. Each round, you can guess one lretter.
     3. If your guess is correct, the letter will be revealed in the word.
     4. If your guess is incorrect, a piece of the hangman will be drawn.
     5. You win if you guess the word before the hangman is complete.
